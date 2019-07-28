@@ -1,0 +1,50 @@
+.head_center {
+    text-align: center;
+}
+
+.searching_inline .searching {
+    width: 30rem;
+    padding: 0 auto;
+}
+
+
+
+.searching_inline {
+    position: relative;
+}
+
+.searching {
+    position: absolute;
+    left: 20%;
+}
+
+.abs_btn {
+    position: absolute;
+    left: 65%;
+}
+
+.jumbotron {
+    background-color: rgb(48, 48, 48);
+    color: #fff;
+}
+
+.para_center {
+    text-align: center;
+}
+
+.home_book_show {
+    margin-top: 2rem;
+}
+
+.footer {
+    margin-top: 2rem;
+    background-color: rgb(48, 48, 48);
+    padding: 1.5rem;
+
+    &_copy {
+        margin: 0;
+        padding: 0;
+        color: #fff;
+        text-align: center;
+    }
+}
